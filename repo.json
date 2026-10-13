@@ -4,7 +4,7 @@
   "description": "Test repo",
   "homepage": "https://github.com/therat4755",
   "mirrors": [],
-  "lastUpdated": "2026-10-13T16:30:58",
+  "lastUpdated": "2026-10-13T16:35:40",
   "apps": [
     {
       "id": "com.v380cameras.litecameraapp",
@@ -17,11 +17,24 @@
       "tags": [],
       "icon": "",
       "screenshots": [],
-      "homepage": "https://github.com/therat4755/com.v380cameras.litecameraapp",
+      "homepage": "",
       "sourceCode": "",
       "issueTracker": "",
       "donate": "",
-      "releases": []
+      "releases": [
+        {
+          "versionName": "",
+          "versionCode": 1,
+          "channel": "stable",
+          "url": "https://github.com/therat4755/com.v380cameras.litecameraapp/releases/download/1.0.21/com.macrovideo.v380lite_1.0.21.apk",
+          "size": 0,
+          "sha256": "",
+          "minSdkVersion": 21,
+          "targetSdkVersion": 34,
+          "added": "2026-10-13",
+          "changelog": ""
+        }
+      ]
     }
   ]
 }
