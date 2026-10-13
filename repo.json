@@ -1,0 +1,27 @@
+{
+  "formatVersion": 1,
+  "name": "Test repo",
+  "description": "Test repo",
+  "homepage": "https://github.com/therat4755",
+  "mirrors": [],
+  "lastUpdated": "2026-10-13T16:30:58",
+  "apps": [
+    {
+      "id": "com.v380cameras.litecameraapp",
+      "name": "V380 Lite",
+      "summary": "",
+      "description": "V380 Lite is a video surveillance service app for android phones. You can monitor your house, apartment, villa, shop, factory, office, or other places using a phone or tablet. This platform connects to the surveillance system through a wireless network, so that you can view the situation at home, or your office, from the app. V380 Lite can play the live feed from the cameras in real-time. V380 Lite, all in all, features remote monitoring via the app itself, a voice intercom, equipment sharing, motion tracking - a feature that tracks any sort of movement within the premises you are surveying, and mobile monitoring and alarm.",
+      "developer": "macrovideo",
+      "license": "",
+      "categories": [],
+      "tags": [],
+      "icon": "",
+      "screenshots": [],
+      "homepage": "https://github.com/therat4755/com.v380cameras.litecameraapp",
+      "sourceCode": "",
+      "issueTracker": "",
+      "donate": "",
+      "releases": []
+    }
+  ]
+}
